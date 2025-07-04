@@ -8,3 +8,4 @@ MyShop is an Ecommerce web application built with Next.js and MongoDB.
 - Run `npm i`
 - Run `npm run dev`
 - See `http://localhost:3000`
+"# Contributed by me!" 
